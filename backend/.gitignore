@@ -15,41 +15,19 @@ yarn-error.log*
 logs
 *.log
 
-# Runtime data
-pids
-*.pid
-*.seed
-*.pid.lock
-
-# Coverage directory used by tools like istanbul
+# Coverage directory
 coverage/
-*.lcov
 
-# nyc test coverage
-.nyc_output
-
-# Dependency directories
-jspm_packages/
-
-# Optional npm cache directory
+# Optional npm cache
 .npm
 
 # Optional eslint cache
 .eslintcache
 
-# Output of 'npm pack'
-*.tgz
-
-# Yarn Integrity file
-.yarn-integrity
-
 # OS generated files
 .DS_Store
 .DS_Store?
 ._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
 Thumbs.db
 
 # IDE and editor files
@@ -57,27 +35,7 @@ Thumbs.db
 .idea/
 *.swp
 *.swo
-*~
 
 # Temporary folders
 tmp/
-temp/
-
-# Database files
-*.db
-*.sqlite
-*.sqlite3
-
-# Backup files
-*.bak
-*.backup
-
-# Archive files
-*.zip
-*.tar.gz
-*.rar
-
-# Certificate files
-*.pem
-*.key
-*.crt 
+temp/ 
